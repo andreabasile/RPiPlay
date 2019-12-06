@@ -45,6 +45,7 @@ For building on a fresh Raspbian Stretch or Buster install, these steps should b
 sudo apt-get install cmake
 sudo apt-get install libavahi-compat-libdnssd-dev
 sudo apt-get install libssl-dev
+sudo apt-get install build-essential
 mkdir build
 cd build
 cmake ..
